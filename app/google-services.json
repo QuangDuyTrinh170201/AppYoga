@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870969332079",
+    "project_id": "appyogasched",
+    "storage_bucket": "appyogasched.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870969332079:android:e2eb126623a4e0d73a589a",
+        "android_client_info": {
+          "package_name": "com.example.appyoga"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdouTcOxA4lVxzD2k4k5RnDw1FJ_LDPi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
